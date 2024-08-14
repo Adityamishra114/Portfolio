@@ -19,7 +19,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.As a dedicated frontend developer with 1.8 years of experience, I have honed my skills in crafting responsive and user-friendly interfaces using HTML, CSS,JavaScript and React js. ",
   github: "https://github.com/Adityamishra114",
   resume:
-    "https://drive.google.com/file/d/1XjhvBGU_UiPkpbqgcy7cvq1iXfzHFweu/view?usp=sharing",
+    "https://drive.google.com/file/d/1z4ZLKohwHWETnkhZBb5UiEZWe-4QJNLq/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/aditya-kumar-mishra-a4a75613b/",
 };
 
