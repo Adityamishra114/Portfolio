@@ -8,6 +8,7 @@ import Thread from "../images/Social_media.png";
 import Sports from "../images/sports.png";
 import VitalMedi from "../images/Vitalmed.png";
 import YesGoBus from "../images/Yesgo.png";
+import CarRental from "../images/CarRental.png";
 
 
 
@@ -195,6 +196,27 @@ export const education = [
 
 export const projects = [
   {
+    id: 12,
+    title: "Car Rental with Admin Panel",
+    date: "Oct 2024 - Dec 2024",
+    description:
+      "The Car Rental project is a comprehensive MERN stack web
+application tailored for small rental companies. It
+encompasses end-to-end functionality, including user
+authentication, booking management, and admin features.
+.",
+    image:CarRental,
+    tags: [
+      "React Js",
+      "MongoDB",
+      "Node Js",
+      "Express Js",
+  "Form-Data",
+    ],
+    category: "mern-stack",
+    github: "https://autanaslub.pl/",
+    webapp: "https://autanaslub.pl/",
+  },{
     id: 11,
     title: "Thread Clone",
     date: "Jan 2024 - Apr 2024",
