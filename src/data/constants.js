@@ -199,12 +199,10 @@ export const projects = [
     id: 12,
     title: "Car Rental with Admin Panel",
     date: "Oct 2024 - Dec 2024",
-    description:
-      "The Car Rental project is a comprehensive MERN stack web
+    description:`The Car Rental project is a comprehensive MERN stack web
 application tailored for small rental companies. It
 encompasses end-to-end functionality, including user
-authentication, booking management, and admin features.
-.",
+authentication, booking management, and admin features.`,
     image:CarRental,
     tags: [
       "React Js",
