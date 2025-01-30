@@ -9,6 +9,7 @@ import Sports from "../images/sports.png";
 import VitalMedi from "../images/Vitalmed.png";
 import YesGoBus from "../images/Yesgo.png";
 import CarRental from "../images/CarRental.png";
+import Incuspaze from "../images/incuspaze.png";
 
 
 
@@ -307,19 +308,17 @@ authentication, booking management, and admin features.`,
     github: "https://yesgobus.com/",
     webapp: "https://yesgobus.com/",
   },
-  // {
-  //   id: 5,
-  //   title: "Job Finding App",
-  //   date: "Jun 2023 - Jul 2023",
-  //   description:
-  //     "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
-  //   image:
-  //     "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
-  //   tags: ["React Native", "JavaScript", "Axios"],
-  //   category: "android app",
-  //   github: "https://github.com/rishavchanda/Job-finder-App",
-  //   webapp: "https://github.com/rishavchanda/Job-finder-App",
-  // },
+  {
+    id: 5,
+    title: "Incuspaze",
+    description:
+      "Incuspaze is India's leading workspace provider, offering a variety of solutions across 44 locations in 18 cities.",
+    image:Incuspaze,
+    tags: ["React Js", "JavaScript", "Axios","Node js"],
+    category: "mern-stack",
+    github: "https://www.incuspaze.com/",
+    webapp: "https://www.incuspaze.com/",
+  },
   // {
   //   id: 4,
   //   title: "Whatsapp Clone",
