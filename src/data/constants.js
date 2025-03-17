@@ -18,10 +18,10 @@ export const Bio = {
   name: "Aditya Kumar Mishra",
   roles: ["FrontEnd  Developer", "UI/UX Designer", "Mern Stack Fresher"],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.As a dedicated frontend developer with 1.8 years of experience, I have honed my skills in crafting responsive and user-friendly interfaces using HTML, CSS,JavaScript and React js. ",
+    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.As a dedicated MERN stack developer with 8 months of experience and a strong foundation in frontend development spanning 2.5 years, I specialize in crafting responsive and user-friendly interfaces using HTML, CSS, JavaScript, and React.js.Leveraging my frontend expertise and newfound backend skills, I am committed to delivering seamless, high-performance applications that bridge functionality and design.",
   github: "https://github.com/Adityamishra114",
   resume:
-    "https://drive.google.com/file/d/1z4ZLKohwHWETnkhZBb5UiEZWe-4QJNLq/view?usp=drive_link",
+    "https://drive.google.com/file/d/1cdgxvp2IgEZNGCBvinHuCiM72NKNDJXk/view?usp=sharing,
   linkedin: "https://www.linkedin.com/in/aditya-kumar-mishra-a4a75613b/",
 };
 
