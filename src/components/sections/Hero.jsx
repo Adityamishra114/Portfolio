@@ -92,7 +92,7 @@ const Title = styled.div`
 
 const TextLoop = styled.div`
   font-weight: 600;
-  font-size: 32px;
+  font-size: 29px;
   display: flex;
   gap: 12px;
   color: ${({ theme }) => theme.text_primary};
@@ -103,7 +103,7 @@ const TextLoop = styled.div`
   }
 
   @media (max-width: 960px) {
-    font-size: 22px;
+    font-size: 18px;
     line-height: 48px;
     margin-bottom: 16px;
   }
